@@ -5,10 +5,10 @@ Details an improved MicroRTI build based on experiments undertaken during the pr
 
 The second iteration build aims to:
 
-– be replicable without the need for technical knowledge;
-– use affordable and readily available tools and materials;
-– be easily repaired;
-– considerably reduce interruptions of the light cast on subjects by replacing the tripod (that holds the microscope) with a single support arm;
-– ensure lighting from at least three angles of inclination between 15-65 degrees is available;
-– be reasonably mobile and modular;
-– physically accommodate the vast majority of objects for which Micro-RTI might be applied.
+- be replicable without the need for technical knowledge;
+- use affordable and readily available tools and materials;
+- be easily repaired;
+- considerably reduce interruptions of the light cast on subjects by replacing the tripod (that holds the microscope) with a single support arm;
+- ensure lighting from at least three angles of inclination between 15-65 degrees is available;
+- be reasonably mobile and modular;
+- physically accommodate the vast majority of objects for which Micro-RTI might be applied.
