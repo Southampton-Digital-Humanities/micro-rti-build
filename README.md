@@ -16,7 +16,7 @@ Instructions for building an inexpensive micro-rti tool for high resolution surf
 
 The purpose of microRTI is to enhance the visualisation of object surfaces through the capture of multiple digital micrographs from a stationary microscope positioned squarely above the subject. In each micrograph, light is cast from multiple known, or knowable, distances and angles of inclination on the subject and a reflective sphere placed within the frame. The result is a series of still images of the same subject with varying highlights and shadows and of the sphere with the light information reflected upon it. Lighting information from the images is mathematically synthesised to generate a mathematical model of the surface, enabling a user to re-light the RTI images interactively and examine its surface on screen. 
 
-The second iteration ![FIGURE 1]() build aims to:
+The second iteration ![FIGURE 1](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig1-concept.JPG) build aims to:
 - be replicable without the need for technical knowledge;
 - use affordable and readily available tools and materials;
 - be easily repaired;
