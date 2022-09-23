@@ -1,5 +1,4 @@
 # micro-rti-build
-Instructions for building an inexpensive micro-rti tool for high resolution surface detail imaging.
 
 SECTION 1: PURPOSE and AIMS
 
@@ -11,10 +10,9 @@ SECTION 4
 
 
 SECTION 1
-Details an improved MicroRTI build based on experiments undertaken during the proof of concept stage outlined in a blog post titled *[MicroRTI: experiments in seeing really (really) close](http://digitalhumanities.soton.ac.uk/blog/southampton-dh/3272)* published 02-09-2022. 
+Instructions for building an inexpensive micro-rti tool for high resolution surface detail imaging based on experiments undertaken during the proof of concept stage outlined in a blog post titled *[MicroRTI: experiments in seeing really (really) close](http://digitalhumanities.soton.ac.uk/blog/southampton-dh/3272)* published 02-09-2022. 
 
-The second iteration build aims to:
-
+The second iteration (FIGURE 1) build aims to:
 - be replicable without the need for technical knowledge;
 - use affordable and readily available tools and materials;
 - be easily repaired;
@@ -95,7 +93,7 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 **** Free RTI Viewer software available here: Cultural Heritage Imaging | Downloads 
 ***** Available to use free of charge for related projects at the Digital Humanities Hub 
 
-SECTION 3: MICRO-RTI TOOL ASSEMBLY 
+SECTION 3: MICRO-RTI TOOL ASSEMBLY (FIGURE 2)
 
 Plywood Base 
 
@@ -111,26 +109,27 @@ Plywood Base
 
   6. Drill five 3mm holes through plywood circle. One in centre and four equally spaced around the base c. 60mm from edge to produce a stable support.  
 
- 
-Microscope Support Arm (Figures 9 and 10) 
+Microscope Support Arm (FIGURES 3, 4, 5)
 
-  1. Screw cable route to top of vertical support column using 1 x 10mm M2 bolt. 
+  1. 3D print cable route, lock plunger guide, lock plunger, horizontal support arm, vertical support column, and microscope 'C' clamp.
+  
+  2. Screw cable route to top of vertical support column using 1 x 10mm M2 bolt. 
 
-  2. Screw lock plunger guide to vertical support arm using 2 x 10mm M2 bolts. Plastic may require filing to improve fit. 
+  3. Screw lock plunger guide to vertical support arm using 2 x 10mm M2 bolts. Plastic may require filing to improve fit. 
 
-  3. Slide lock plunger into the slot in the back of the vertical support arm and engage teeth of lock plunger and vertical support column. 
+  4. Slide lock plunger into the slot in the back of the vertical support arm and engage teeth of lock plunger and vertical support column. 
 
-  4. Slide compression spring over 20mm M6 bolt. 
+  5. Slide compression spring over 20mm M6 bolt. 
 
-  5. Fit M6 nut in to recess at back of lock plunger guide. Plastic may require filing to improve fit. 
+  6. Fit M6 nut in to recess at back of lock plunger guide. Plastic may require filing to improve fit. 
 
-  6. Fit head of 20mm M6 bolt into recess into recess in lock plunger, compress spring, align bolt with nut and rotate for min of 3 threads. The teeth of the lock          plunger and vertical support column should freely engage under the tension of the compression spring. Plastic may require filing to improve fit. 
+  7. Fit head of 20mm M6 bolt into recess into recess in lock plunger, compress spring, align bolt with nut and rotate for min of 3 threads. The teeth of the lock          plunger and vertical support column should freely engage under the tension of the compression spring. Plastic may require filing to improve fit. 
 
-  7. Attach microscope ‘C’ clamp to horizontal support arm using 1 x 10mm M2 nut and bolt. Fit microscope to clamp. 
+  8. Attach microscope ‘C’ clamp to horizontal support arm using 1 x 10mm M2 nut and bolt. Fit microscope to clamp. 
 
-  8. Route microscope cable through the cable route fixture.  
+  9. Route microscope cable through the cable route fixture.  
 
-Fix microscope support to plywood base (Figure 11). 
+Fix microscope support to plywood base (FIGURE 6). 
 
   1. Place the assembly on top of the plywood base, disengage teeth of lock plunger from vertical support column and lower microscope until it meets surface of base.  
 
@@ -148,7 +147,7 @@ Fix microscope support to plywood base (Figure 11).
 
   8. Guide each peg into the holes drilled into plywood board and press firmly to engage Velcro adhesive. 
 
-Assemble light source and tripod arrangement. 
+Assemble light source and tripod arrangement (FIGURE 7). 
 
   1. Press fit the ball head of the tripod base into the cup of the tripod cradle. 
 
