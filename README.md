@@ -6,10 +6,12 @@ SECTION 2: HARDWARE, SOFTWARE, TOOLS and MATERIALS
 
 SECTION 3: ASSEMBLY
 
-SECTION 4
+SECTION 4: TEST EXAMPLE
 
+==========================
 
-SECTION 1
+SECTION 1: PURPOSE and AIMS
+
 Instructions for building an inexpensive micro-rti tool for high resolution surface detail imaging based on experiments undertaken during the proof of concept stage outlined in a blog post titled *[MicroRTI: experiments in seeing really (really) close](http://digitalhumanities.soton.ac.uk/blog/southampton-dh/3272)* published 02-09-2022. 
 
 The second iteration (FIGURE 1) build aims to:
@@ -21,7 +23,7 @@ The second iteration (FIGURE 1) build aims to:
 - be reasonably mobile and modular;
 - physically accommodate the vast majority of objects for which Micro-RTI might be applied.
 
-SECTION 2
+SECTION 2: HARDWARE, SOFTWARE, TOOLS and MATERIALS
 
 HARDWARE 
 
@@ -97,7 +99,7 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
 ***** Available to use free of charge for related projects at the Digital Humanities Hub 
 
-SECTION 3: MICRO-RTI TOOL ASSEMBLY (FIGURE 2)
+SECTION 3: ASSEMBLY (FIGURE 2)
 
 Plywood Base 
 
@@ -165,7 +167,7 @@ Assemble light source and tripod arrangement (FIGURE 7).
 
   6. Support barrier fits slots in to front of riser block(s) to prevent riser from sliding underneath platform and introducing variation in distance of lighting. 
 
-
+SECTION 4: TEST EXAMPLE
 
 
  
