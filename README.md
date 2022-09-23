@@ -27,7 +27,7 @@ The second iteration (FIGURE 1) build aims to:
 
 **SECTION 2: HARDWARE, SOFTWARE, TOOLS and MATERIALS**
 
-HARDWARE 
+*HARDWARE* 
 
 Plugable brand 250X digital USB microscope ~£40.00
 
@@ -47,7 +47,7 @@ Morpilot LED torch (White and UV light) £10.00
 
 Laptop/Desktop (~£100+)*
 
-SOFTWARE 
+*SOFTWARE* 
 
 Plugable Digital Viewer (v 3.3.30) ** 
 
@@ -55,7 +55,7 @@ RTI Builder (v 2.02) ***
 
 RTI Viewer (v 1.1) **** 
 
-MATERIALS 
+*MATERIALS* 
 
 PLA filament (for 3D printed parts) £10.00 
 
@@ -79,7 +79,7 @@ Permanent black marker (mark lighting angles around platform) £1.00
 
 Velcro strap (to hold light source to light source tripod) £1.00 
 
-TOOLS 
+*TOOLS* 
 
 3D printer (Ultimaker 3) or similar. ***** 
 
@@ -103,7 +103,7 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
 **SECTION 3: ASSEMBLY (FIGURE 2)**
 
-Plywood Base 
+*Plywood Base* 
 
   1. Cut 400mm x 400mm plywood square. 
 
@@ -117,7 +117,7 @@ Plywood Base
 
   6. Drill five 3mm holes through plywood circle. One in centre and four equally spaced around the base c. 60mm from edge to produce a stable support.  
 
-Microscope Support Arm (FIGURES 3, 4, 5)
+*Microscope Support Arm (FIGURES 3, 4, 5)*
 
   1. 3D print cable route, lock plunger guide, lock plunger, horizontal support arm, vertical support column, and microscope 'C' clamp.
   
@@ -137,7 +137,7 @@ Microscope Support Arm (FIGURES 3, 4, 5)
 
   9. Route microscope cable through the cable route fixture.  
 
-Fix microscope support to plywood base (FIGURE 6). 
+*Fix microscope support to plywood base (FIGURE 6).* 
 
   1. Place the assembly on top of the plywood base, disengage teeth of lock plunger from vertical support column and lower microscope until it meets surface of base.  
 
@@ -155,7 +155,7 @@ Fix microscope support to plywood base (FIGURE 6).
 
   8. Guide each peg into the holes drilled into plywood board and press firmly to engage Velcro adhesive. 
 
-Assemble light source and tripod arrangement (FIGURE 7). 
+*Assemble light source and tripod arrangement (FIGURE 7).* 
 
   1. Press fit the ball head of the tripod base into the cup of the tripod cradle. 
 
