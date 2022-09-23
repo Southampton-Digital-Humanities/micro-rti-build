@@ -1,4 +1,4 @@
-# micro-rti-build
+# Micro RTI Build Instructions
 
 ## SECTION 1: PURPOSE and AIMS
 
