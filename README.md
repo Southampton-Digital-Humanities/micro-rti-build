@@ -14,6 +14,8 @@ SECTION 1: PURPOSE and AIMS
 
 Instructions for building an inexpensive micro-rti tool for high resolution surface detail imaging based on experiments undertaken during the proof of concept stage outlined in a blog post titled *[MicroRTI: experiments in seeing really (really) close](http://digitalhumanities.soton.ac.uk/blog/southampton-dh/3272)* published 02-09-2022. 
 
+The purpose of microRTI is to enhance the visualisation of object surfaces through the capture of multiple digital micrographs from a stationary microscope positioned squarely above the subject. In each micrograph, light is cast from multiple known, or knowable, distances and angles of inclination on the subject and a reflective sphere placed within the frame. The result is a series of still images of the same subject with varying highlights and shadows and of the sphere with the light information reflected upon it. Lighting information from the images is mathematically synthesised to generate a mathematical model of the surface, enabling a user to re-light the RTI images interactively and examine its surface on screen. 
+
 The second iteration (FIGURE 1) build aims to:
 - be replicable without the need for technical knowledge;
 - use affordable and readily available tools and materials;
@@ -169,6 +171,9 @@ Assemble light source and tripod arrangement (FIGURE 7).
 
 SECTION 4: TEST EXAMPLE
 
+A .rti model of an  area of a  mezzotint-left eye of figure-was produced using the build described above. This includes the use of a 0.25mm sphere at 250x magnification at 200mm distance from the subject.  
+
+See IMAGES 8 and 9 located in "Imaging Example" folder for a indication of the potential for visualising the microscopic surface texture of objects using this equipment. 
 
  
 
