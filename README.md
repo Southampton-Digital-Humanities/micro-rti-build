@@ -101,7 +101,7 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
 ***** Available to use free of charge for related projects at the Digital Humanities Hub 
 
-**SECTION 3: ASSEMBLY (FIGURE 2)**
+**SECTION 3: ASSEMBLY ![FIGURE 2]()**
 
 *Plywood Base* 
 
@@ -117,7 +117,7 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
   6. Drill five 3mm holes through plywood circle. One in centre and four equally spaced around the base c. 60mm from edge to produce a stable support.  
 
-*Microscope Support Arm (FIGURES 3, 4, 5)*
+*Microscope Support Arm ![FIGURE 3](), ![FIGURE 4]() and ![FIGURE 5]()*
 
   1. 3D print cable route, lock plunger guide, lock plunger, horizontal support arm, vertical support column, and microscope 'C' clamp.
   
@@ -137,7 +137,7 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
   9. Route microscope cable through the cable route fixture.  
 
-*Fix microscope support to plywood base (FIGURE 6).* 
+*Fix microscope support to plywood base ![FIGURE 6]().* 
 
   1. Place the assembly on top of the plywood base, disengage teeth of lock plunger from vertical support column and lower microscope until it meets surface of base.  
 
@@ -155,7 +155,7 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
   8. Guide each peg into the holes drilled into plywood board and press firmly to engage Velcro adhesive. 
 
-*Assemble light source and tripod arrangement (FIGURE 7).* 
+*Assemble light source and tripod arrangement ![FIGURE 7]().* 
 
   1. Press fit the ball head of the tripod base into the cup of the tripod cradle. 
 
@@ -173,7 +173,7 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
 A .rti model of an  area of a  mezzotint-left eye of figure-was produced using the build described above. This includes the use of a 0.25mm sphere at 250x magnification at 200mm distance from the subject.  
 
-See IMAGES 8 and 9 located in "Imaging Example" folder for a indication of the potential for visualising the microscopic surface texture of objects using this equipment. 
+See ![IMAGE 8]() and ![IMAGE 9]() located in "Imaging Example" folder for a indication of the potential for visualising the microscopic surface texture of objects using this equipment. 
 
  
 
