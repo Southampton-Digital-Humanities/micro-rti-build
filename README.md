@@ -2,21 +2,12 @@
 
 ## SECTION 1: PURPOSE and AIMS
 
-## SECTION 2: HARDWARE, SOFTWARE, TOOLS and MATERIALS
-
-## SECTION 3: ASSEMBLY
-
-## SECTION 4: TEST EXAMPLE
-
-==========================
-
-**SECTION 1: PURPOSE and AIMS**
-
 Instructions for building an inexpensive micro-rti tool for high resolution surface detail imaging based on experiments undertaken during the proof of concept stage outlined in a blog post titled *[MicroRTI: experiments in seeing really (really) close](http://digitalhumanities.soton.ac.uk/blog/southampton-dh/3272)* published 02-09-2022. 
 
 The purpose of microRTI is to enhance the visualisation of object surfaces through the capture of multiple digital micrographs from a stationary microscope positioned squarely above the subject. In each micrograph, light is cast from multiple known, or knowable, distances and angles of inclination on the subject and a reflective sphere placed within the frame. The result is a series of still images of the same subject with varying highlights and shadows and of the sphere with the light information reflected upon it. Lighting information from the images is mathematically synthesised to generate a mathematical model of the surface, enabling a user to re-light the RTI images interactively and examine its surface on screen. 
 
 The second iteration build (see fig.1) aims to:
+
 - be replicable without the need for technical knowledge;
 - use affordable and readily available tools and materials;
 - be easily repaired;
@@ -27,71 +18,50 @@ The second iteration build (see fig.1) aims to:
 
 ![FIGURE 1](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig1-concept.JPG)
 
-**SECTION 2: HARDWARE, SOFTWARE, TOOLS and MATERIALS**
+## SECTION 2: HARDWARE, SOFTWARE, TOOLS and MATERIALS
 
-*HARDWARE* 
+### HARDWARE
 
-Plugable brand 250X digital USB microscope ~£40.00
+- Plugable brand 250X digital USB microscope ~£40.00
+  - 2.0 Megapixels, up to 250x magnification (Note: Final magnification corresponds to monitor size) 
+  - 1600x1200 resolution 
+  - 8bit colour depth 
 
-  -2.0 Megapixels, up to 250x magnification (Note: Final magnification corresponds to monitor size) 
-
-  -1600x1200 resolution 
-
-  -8bit colour depth 
-
-Reflective spheres £15.00 
-
-  -3mm and 0.25mm 
-
-Morpilot LED torch (White and UV light) £10.00
-
-  -250 lumen output  
+- Reflective spheres £15.00 
+  - 3mm and 0.25mm Morpilot LED torch (White and UV light) £10.00
+  - 250 lumen output  
 
 Laptop/Desktop (~£100+)*
 
-*SOFTWARE* 
+### SOFTWARE
 
-Plugable Digital Viewer (v 3.3.30) ** 
+- Plugable Digital Viewer (v 3.3.30) ** 
+- RTI Builder (v 2.02) *** 
+- RTI Viewer (v 1.1) **** 
 
-RTI Builder (v 2.02) *** 
+### MATERIALS
 
-RTI Viewer (v 1.1) **** 
+- PLA filament (for 3D printed parts) £10.00 
+- 4 x M2 10mm bolts £2.00 
+- 1 x M2 nut £0.50 
+- 1 x M6 20mm bolt £1.00 
+- 1 x M6 nut £0.50 
+- 1 x 38mm x 5.5mm compression spring £0.40 
+- 2 x l: 25mm, w: 2mm Phillips head screws £0.25 
+- Plywood (cut in to disc, radius 200mm) £5.00 per 500mm x 500mm cut 
+- Velcro strips (affix light source tripod to risers and subject plate to plywood platform) £8.00/pack 
+- Permanent black marker (mark lighting angles around platform) £1.00 
+- Velcro strap (to hold light source to light source tripod) £1.00 
 
-*MATERIALS* 
+### TOOLS
 
-PLA filament (for 3D printed parts) £10.00 
+- 3D printer (Ultimaker 3) or similar. ***** 
+- Jig saw (or small handsaw) for cutting plywood base £5.00-50.00 
+- Electronics screwdriver set (specifically 1.3mm Allen head) £10.00/set 
+- Small knife (for cleaning the holes in 3d printed parts) £3.00 
+- Fine file (nail file for cleaning 3d printed parts) £1.00 
 
-4 x M2 10mm bolts £2.00 
-
-1 x M2 nut £0.50 
-
-1 x M6 20mm bolt £1.00 
-
-1 x M6 nut £0.50 
-
-1 x 38mm x 5.5mm compression spring £0.40 
-
-2 x l: 25mm, w: 2mm Phillips head screws £0.25 
-
-Plywood (cut in to disc, radius 200mm) £5.00 per 500mm x 500mm cut 
-
-Velcro strips (affix light source tripod to risers and subject plate to plywood platform) £8.00/pack 
-
-Permanent black marker (mark lighting angles around platform) £1.00 
-
-Velcro strap (to hold light source to light source tripod) £1.00 
-
-*TOOLS* 
-
-3D printer (Ultimaker 3) or similar. ***** 
-
-Jig saw (or small handsaw) for cutting plywood base £5.00-50.00 
-
-Electronics screwdriver set (specifically 1.3mm Allen head) £10.00/set 
-
-Small knife (for cleaning the holes in 3d printed parts) £3.00 
-
-Fine file (nail file for cleaning 3d printed parts) £1.00 
+#### Notes
 
 * Most modern PC’s and Apple machines will run this software, though some instruction for installation located in site forum is required due to recent Apple security setting changes.
 
@@ -103,11 +73,11 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
 ***** Available to use free of charge for related projects at the Digital Humanities Hub 
 
-**SECTION 3: ASSEMBLY 
+## SECTION 3: ASSEMBLY
 
 ![FIGURE 2](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig2-MicroRTI-iteration2.jpg)**
 
-*Plywood Base* 
+### Plywood Base
 
   1. Cut 400mm x 400mm plywood square. 
 
@@ -121,7 +91,7 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
   6. Drill five 3mm holes through plywood circle. One in centre and four equally spaced around the base c. 60mm from edge to produce a stable support.  
 
-*Microscope Support Arm*
+### Microscope Support Arm
 
   1. 3D print cable route, lock plunger guide, lock plunger, horizontal support arm, vertical support column, and microscope 'C' clamp found in 'Parts Files' folder.
 
@@ -139,7 +109,7 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
   6. Fit M6 nut in to recess at back of lock plunger guide. Plastic may require filing to improve fit. 
 
-  7. Fit head of 20mm M6 bolt into recess into recess in lock plunger, compress spring, align bolt with nut and rotate for min of 3 threads. The teeth of the lock          plunger and vertical support column should freely engage under the tension of the compression spring. Plastic may require filing to improve fit. 
+  7. Fit head of 20mm M6 bolt into recess into recess in lock plunger, compress spring, align bolt with nut and rotate for min of 3 threads. The teeth of the lock plunger and vertical support column should freely engage under the tension of the compression spring. Plastic may require filing to improve fit. 
 
   8. Attach microscope ‘C’ clamp to horizontal support arm using 1 x 10mm M2 nut and bolt. Fit microscope to clamp. 
 
@@ -147,7 +117,7 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
 ![FIGURE 5](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig5-lock_plunger_detail.jpg)
 
-*Fix microscope support to plywood base.* 
+### Fix microscope support to plywood base.
 
   1. 3D print subject plate and five support feet found in 'Parts Files' folder.
  
@@ -169,7 +139,7 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
 ![FIGURE 6](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig6-final_assembly.jpg)
 
-*Assemble light source and tripod arrangement.* 
+### Assemble light source and tripod arrangement.
 
   1. 3D print light tripod cradle, light tripod base and light tripod bolt found in 'Parts Files' folder. 
   
@@ -187,7 +157,7 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
 ![FIGURE 7](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig7-tripod_assembly.jpg) 
 
-**SECTION 4: TEST EXAMPLE**
+## SECTION 4: TEST EXAMPLE
 
 A .rti model of an  area of a  mezzotint-left eye of figure-was produced using the build described above. This includes the use of a 0.25mm sphere at 250x magnification at 200mm distance from the subject.  
 
@@ -195,16 +165,4 @@ A .rti model of an  area of a  mezzotint-left eye of figure-was produced using t
 
 ![IMAGE 9](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/Imaging%20Example/IMAGE9-screenshot_RTI_model_eye.jpg)
 
- Image 9 demonstrates the potential for visualising the microscopic surface texture of objects using this equipment. 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+Image 9 demonstrates the potential for visualising the microscopic surface texture of objects using this equipment. 
