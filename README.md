@@ -10,7 +10,7 @@
 
 ==========================
 
-SECTION 1: PURPOSE and AIMS
+**SECTION 1: PURPOSE and AIMS**
 
 Instructions for building an inexpensive micro-rti tool for high resolution surface detail imaging based on experiments undertaken during the proof of concept stage outlined in a blog post titled *[MicroRTI: experiments in seeing really (really) close](http://digitalhumanities.soton.ac.uk/blog/southampton-dh/3272)* published 02-09-2022. 
 
