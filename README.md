@@ -95,7 +95,7 @@ The second iteration build (see fig.1) aims to:
 
 ### Microscope Support Arm
 
-  1. 3D print cable route, lock plunger guide, lock plunger, horizontal support arm, vertical support column, and microscope 'C' clamp found in 'Parts Files' folder.
+  1. 3D print cable route, lock plunger guide, lock plunger, horizontal support arm, vertical support column, and microscope 'C' clamp found in '[Parts Files](https://github.com/Southampton-Digital-Humanities/micro-rti-build/tree/main/Parts%20Files)' folder.
 
  ![FIGURE 3](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig3-microscope_arm_pts.JPG)
   
