@@ -131,6 +131,8 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
   3. Screw lock plunger guide to vertical support arm using 2 x 10mm M2 bolts. Plastic may require filing to improve fit. 
 
+![FIGURE 4](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig4-scope_arm_detail.jpg)
+
   4. Slide lock plunger into the slot in the back of the vertical support arm and engage teeth of lock plunger and vertical support column. 
 
   5. Slide compression spring over 20mm M6 bolt. 
@@ -138,8 +140,6 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
   6. Fit M6 nut in to recess at back of lock plunger guide. Plastic may require filing to improve fit. 
 
   7. Fit head of 20mm M6 bolt into recess into recess in lock plunger, compress spring, align bolt with nut and rotate for min of 3 threads. The teeth of the lock          plunger and vertical support column should freely engage under the tension of the compression spring. Plastic may require filing to improve fit. 
-
-![FIGURE 4](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig4-scope_arm_detail.jpg)
 
   8. Attach microscope ‘C’ clamp to horizontal support arm using 1 x 10mm M2 nut and bolt. Fit microscope to clamp. 
 
