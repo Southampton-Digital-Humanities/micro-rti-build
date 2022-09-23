@@ -31,7 +31,7 @@ The second iteration build (see fig.1) aims to:
   - 3mm and 0.25mm Morpilot LED torch (White and UV light) £10.00
   - 250 lumen output  
 
-Laptop/Desktop (~£100+)*
+- Laptop/Desktop (~£100+)*
 
 ### SOFTWARE
 
@@ -75,7 +75,7 @@ Laptop/Desktop (~£100+)*
 
 ## SECTION 3: ASSEMBLY
 
-![FIGURE 2](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig2-MicroRTI-iteration2.jpg)**
+![FIGURE 2](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig2-MicroRTI-iteration2.jpg)
 
 ### Plywood Base
 
