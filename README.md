@@ -87,10 +87,14 @@ Small knife (for cleaning the holes in 3d printed parts) £3.00
 
 Fine file (nail file for cleaning 3d printed parts) £1.00 
 
-* Most modern PC’s and Apple machines will run this software, though some instruction for installation located in site forum is required due to recent Apple security setting changes.  
-** Free with digital microscope. Most digital microscopes come with some variation of a viewer software. 
-*** Free RTI Builder software available here: Cultural Heritage Imaging | Downloads 
-**** Free RTI Viewer software available here: Cultural Heritage Imaging | Downloads 
+* Most modern PC’s and Apple machines will run this software, though some instruction for installation located in site forum is required due to recent Apple security setting changes.
+
+** Free with digital microscope. Most digital microscopes come with some variation of a viewer software.
+
+*** Free RTI Builder software available here: Cultural Heritage Imaging | Downloads
+
+**** Free RTI Viewer software available here: Cultural Heritage Imaging | Downloads
+
 ***** Available to use free of charge for related projects at the Digital Humanities Hub 
 
 SECTION 3: MICRO-RTI TOOL ASSEMBLY (FIGURE 2)
