@@ -16,7 +16,7 @@ Instructions for building an inexpensive micro-rti tool for high resolution surf
 
 The purpose of microRTI is to enhance the visualisation of object surfaces through the capture of multiple digital micrographs from a stationary microscope positioned squarely above the subject. In each micrograph, light is cast from multiple known, or knowable, distances and angles of inclination on the subject and a reflective sphere placed within the frame. The result is a series of still images of the same subject with varying highlights and shadows and of the sphere with the light information reflected upon it. Lighting information from the images is mathematically synthesised to generate a mathematical model of the surface, enabling a user to re-light the RTI images interactively and examine its surface on screen. 
 
-The second iteration ![FIGURE 1](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig1-concept.JPG) build aims to:
+The second iteration build (see fig.1) aims to:
 - be replicable without the need for technical knowledge;
 - use affordable and readily available tools and materials;
 - be easily repaired;
@@ -24,6 +24,8 @@ The second iteration ![FIGURE 1](https://github.com/Southampton-Digital-Humaniti
 - ensure lighting from at least three angles of inclination between 15-65 degrees is available;
 - be reasonably mobile and modular;
 - physically accommodate the vast majority of objects for which Micro-RTI might be applied.
+
+![FIGURE 1](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig1-concept.JPG)
 
 **SECTION 2: HARDWARE, SOFTWARE, TOOLS and MATERIALS**
 
@@ -101,7 +103,9 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
 ***** Available to use free of charge for related projects at the Digital Humanities Hub 
 
-**SECTION 3: ASSEMBLY ![FIGURE 2]()**
+**SECTION 3: ASSEMBLY 
+
+![FIGURE 2](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig2-MicroRTI-iteration2.jpg)**
 
 *Plywood Base* 
 
@@ -117,9 +121,11 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
   6. Drill five 3mm holes through plywood circle. One in centre and four equally spaced around the base c. 60mm from edge to produce a stable support.  
 
-*Microscope Support Arm ![FIGURE 3](), ![FIGURE 4]() and ![FIGURE 5]()*
+*Microscope Support Arm*
 
   1. 3D print cable route, lock plunger guide, lock plunger, horizontal support arm, vertical support column, and microscope 'C' clamp.
+
+ ![FIGURE 3](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig3-microscope_arm_pts.JPG)
   
   2. Screw cable route to top of vertical support column using 1 x 10mm M2 bolt. 
 
@@ -133,11 +139,15 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
   7. Fit head of 20mm M6 bolt into recess into recess in lock plunger, compress spring, align bolt with nut and rotate for min of 3 threads. The teeth of the lock          plunger and vertical support column should freely engage under the tension of the compression spring. Plastic may require filing to improve fit. 
 
+![FIGURE 4](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig4-scope_arm_detail.jpg)
+
   8. Attach microscope ‘C’ clamp to horizontal support arm using 1 x 10mm M2 nut and bolt. Fit microscope to clamp. 
 
   9. Route microscope cable through the cable route fixture.  
 
-*Fix microscope support to plywood base ![FIGURE 6]().* 
+![FIGURE 5](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig5-lock_plunger_detail.jpg)
+
+*Fix microscope support to plywood base.* 
 
   1. Place the assembly on top of the plywood base, disengage teeth of lock plunger from vertical support column and lower microscope until it meets surface of base.  
 
@@ -155,7 +165,9 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
   8. Guide each peg into the holes drilled into plywood board and press firmly to engage Velcro adhesive. 
 
-*Assemble light source and tripod arrangement ![FIGURE 7]().* 
+![FIGURE 6](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig6-final_assembly.jpg)
+
+*Assemble light source and tripod arrangement.* 
 
   1. Press fit the ball head of the tripod base into the cup of the tripod cradle. 
 
@@ -169,15 +181,17 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
   6. Support barrier fits slots in to front of riser block(s) to prevent riser from sliding underneath platform and introducing variation in distance of lighting. 
 
+![FIGURE 7](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig7-tripod_assembly.jpg) 
+
 **SECTION 4: TEST EXAMPLE**
 
 A .rti model of an  area of a  mezzotint-left eye of figure-was produced using the build described above. This includes the use of a 0.25mm sphere at 250x magnification at 200mm distance from the subject.  
 
-See ![IMAGE 8]() and ![IMAGE 9]() located in "Imaging Example" folder for a indication of the potential for visualising the microscopic surface texture of objects using this equipment. 
+![IMAGE 8](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/Imaging%20Example/IMAGE8-Test_subject.jpg)
 
- 
+![IMAGE 9](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/Imaging%20Example/IMAGE9-screenshot_RTI_model_eye.jpg)
 
- 
+ Image 9 demonstrates the potential for visualising the microscopic surface texture of objects using this equipment. 
 
  
 
