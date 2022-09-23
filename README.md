@@ -1,6 +1,16 @@
 # micro-rti-build
 Instructions for building an inexpensive micro-rti tool for high resolution surface detail imaging.
 
+SECTION 1: PURPOSE and AIMS
+
+SECTION 2: HARDWARE, SOFTWARE, TOOLS and MATERIALS
+
+SECTION 3: ASSEMBLY
+
+SECTION 4
+
+
+SECTION 1
 Details an improved MicroRTI build based on experiments undertaken during the proof of concept stage outlined in a blog post titled *[MicroRTI: experiments in seeing really (really) close](http://digitalhumanities.soton.ac.uk/blog/southampton-dh/3272)* published 02-09-2022. 
 
 The second iteration build aims to:
@@ -13,7 +23,79 @@ The second iteration build aims to:
 - be reasonably mobile and modular;
 - physically accommodate the vast majority of objects for which Micro-RTI might be applied.
 
-MicroRTI Assembly 
+SECTION 2
+
+HARDWARE 
+
+Plugable brand 250X digital USB microscope ~£40.00
+
+  -2.0 Megapixels, up to 250x magnification (Note: Final magnification corresponds to monitor size) 
+
+  -1600x1200 resolution 
+
+  -8bit colour depth 
+
+Reflective spheres £15.00 
+
+  -3mm and 0.25mm 
+
+Morpilot LED torch (White and UV light) £10.00
+
+  -250 lumen output  
+
+Laptop/Desktop (~£100+)*
+
+SOFTWARE 
+
+Plugable Digital Viewer (v 3.3.30) ** 
+
+RTI Builder (v 2.02) *** 
+
+RTI Viewer (v 1.1) **** 
+
+MATERIALS 
+
+PLA filament (for 3D printed parts) £10.00 
+
+4 x M2 10mm bolts £2.00 
+
+1 x M2 nut £0.50 
+
+1 x M6 20mm bolt £1.00 
+
+1 x M6 nut £0.50 
+
+1 x 38mm x 5.5mm compression spring £0.40 
+
+2 x l: 25mm, w: 2mm Phillips head screws £0.25 
+
+Plywood (cut in to disc, radius 200mm) £5.00 per 500mm x 500mm cut 
+
+Velcro strips (affix light source tripod to risers and subject plate to plywood platform) £8.00/pack 
+
+Permanent black marker (mark lighting angles around platform) £1.00 
+
+Velcro strap (to hold light source to light source tripod) £1.00 
+
+TOOLS 
+
+3D printer (Ultimaker 3) or similar. ***** 
+
+Jig saw (or small handsaw) for cutting plywood base £5.00-50.00 
+
+Electronics screwdriver set (specifically 1.3mm Allen head) £10.00/set 
+
+Small knife (for cleaning the holes in 3d printed parts) £3.00 
+
+Fine file (nail file for cleaning 3d printed parts) £1.00 
+
+* Most modern PC’s and Apple machines will run this software, though some instruction for installation located in site forum is required due to recent Apple security setting changes.  
+** Free with digital microscope. Most digital microscopes come with some variation of a viewer software. 
+*** Free RTI Builder software available here: Cultural Heritage Imaging | Downloads 
+**** Free RTI Viewer software available here: Cultural Heritage Imaging | Downloads 
+***** Available to use free of charge for related projects at the Digital Humanities Hub 
+
+SECTION 3: MICRO-RTI TOOL ASSEMBLY 
 
 Plywood Base 
 
@@ -42,7 +124,7 @@ Microscope Support Arm (Figures 9 and 10)
 
   5. Fit M6 nut in to recess at back of lock plunger guide. Plastic may require filing to improve fit. 
 
-  6. Fit head of 20mm M6 bolt into recess into recess in lock plunger, compress spring, align bolt with nut and rotate for min of 3 threads. The teeth of the lock plunger and vertical support column should freely engage under the tension of the compression spring. Plastic may require filing to improve fit. 
+  6. Fit head of 20mm M6 bolt into recess into recess in lock plunger, compress spring, align bolt with nut and rotate for min of 3 threads. The teeth of the lock          plunger and vertical support column should freely engage under the tension of the compression spring. Plastic may require filing to improve fit. 
 
   7. Attach microscope ‘C’ clamp to horizontal support arm using 1 x 10mm M2 nut and bolt. Fit microscope to clamp. 
 
@@ -65,7 +147,6 @@ Fix microscope support to plywood base (Figure 11).
   7. Place Velcro pairings onto tops of support feet by feeding 3mm pegs through the punched holes. 
 
   8. Guide each peg into the holes drilled into plywood board and press firmly to engage Velcro adhesive. 
-
 
 Assemble light source and tripod arrangement. 
 
