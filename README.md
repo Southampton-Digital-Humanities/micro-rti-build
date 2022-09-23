@@ -123,7 +123,7 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
 *Microscope Support Arm*
 
-  1. 3D print cable route, lock plunger guide, lock plunger, horizontal support arm, vertical support column, and microscope 'C' clamp.
+  1. 3D print cable route, lock plunger guide, lock plunger, horizontal support arm, vertical support column, and microscope 'C' clamp found in 'Parts Files' folder.
 
  ![FIGURE 3](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig3-microscope_arm_pts.JPG)
   
@@ -149,37 +149,41 @@ Fine file (nail file for cleaning 3d printed parts) £1.00
 
 *Fix microscope support to plywood base.* 
 
-  1. Place the assembly on top of the plywood base, disengage teeth of lock plunger from vertical support column and lower microscope until it meets surface of base.  
+  1. 3D print subject plate and five support feet found in 'Parts Files' folder.
+ 
+  2. Place the assembly on top of the plywood base, disengage teeth of lock plunger from vertical support column and lower microscope until it meets surface of base.  
 
-  2. Adjust the assembly so that the centre of the microscope lens aligns with the centre of the plywood base. 
+  3. Adjust the assembly so that the centre of the microscope lens aligns with the centre of the plywood base. 
 
-  3. Fasten microscope support to the plywood base using 2 x Phillips head screws. 
+  4. Fasten microscope support to the plywood base using 2 x Phillips head screws. 
 
-  4. Affix both hook and loop sides of 2 x c.150mm strips of Velcro to base of subject plate.  Remove paper backing to expose adhesive. 
+  5. Affix both hook and loop sides of 2 x c.150mm strips of Velcro to base of subject plate. Remove paper backing to expose adhesive. 
 
-  5. Raise microscope to place subject plate. Align centres of subject plate and plywood base and press firmly to join the two. 
+  6. Raise microscope to place subject plate. Align centres of subject plate and plywood base and press firmly to join the two. 
 
-  6. Cut 5 pairs of hook and loop Velcro circles of c.20mm in diameter. Punch a hole through their centres using a paper hole punch. Remove paper to expose adhesive. 
+  7. Cut 5 pairs of hook and loop Velcro circles of c.20mm in diameter. Punch a hole through their centres using a paper hole punch. Remove paper to expose adhesive. 
 
-  7. Place Velcro pairings onto tops of support feet by feeding 3mm pegs through the punched holes. 
+  8. Place Velcro pairings onto tops of support feet by feeding 3mm pegs through the punched holes. 
 
-  8. Guide each peg into the holes drilled into plywood board and press firmly to engage Velcro adhesive. 
+  9. Guide each peg into the holes drilled into plywood board and press firmly to engage Velcro adhesive. 
 
 ![FIGURE 6](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig6-final_assembly.jpg)
 
 *Assemble light source and tripod arrangement.* 
 
-  1. Press fit the ball head of the tripod base into the cup of the tripod cradle. 
+  1. 3D print light tripod cradle, light tripod base and light tripod bolt found in 'Parts Files' folder. 
+  
+  2. Press fit the ball head of the tripod base into the cup of the tripod cradle. 
 
-  2. Thread bolt through cradle until finger tight. 
+  3. Thread bolt through cradle until finger tight. 
 
-  3. Place torch in cradle. 
+  4. Place torch in cradle. 
 
-  4. Thread Velcro strap through slits in cradle and secure torch in place. 
+  5. Thread Velcro strap through slits in cradle and secure torch in place. 
 
-  5. Affix Velcro strips to underside of tripod base and top of two riser blocks.  
+  6. Affix Velcro strips to underside of tripod base and top of two riser blocks.  
 
-  6. Support barrier fits slots in to front of riser block(s) to prevent riser from sliding underneath platform and introducing variation in distance of lighting. 
+  7. Support barrier fits slots in to front of riser block(s) to prevent riser from sliding underneath platform and introducing variation in distance of lighting. 
 
 ![FIGURE 7](https://github.com/Southampton-Digital-Humanities/micro-rti-build/blob/main/FIGURES/Fig7-tripod_assembly.jpg) 
 
